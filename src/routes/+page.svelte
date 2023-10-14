@@ -5,7 +5,7 @@
 	import { scheduleData } from 'src/utils/store';
 
 	let uploading = false,
-		lastSyncDate = new Date();
+		lastSyncDate = new Date().toLocaleDateString('en-GB');
 	async function uploadFile(e: Event) {
 		//@ts-ignore
 		const pdfFile = e.target.files[0];

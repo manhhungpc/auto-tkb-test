@@ -25,6 +25,9 @@
 			<TabAnchor href="/how-to">
 				<span class="link"> Hướng dẫn </span>
 			</TabAnchor>
+			<TabAnchor href="/how-to">
+				<span class="link"> Dữ liệu dangkyhoc </span>
+			</TabAnchor>
 			<TabAnchor href="/report-error">
 				<span class="link"> Báo lỗi </span>
 			</TabAnchor>
